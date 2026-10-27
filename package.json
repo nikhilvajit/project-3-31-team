@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "framer-motion": "^11.12.0"
+  }
+}
